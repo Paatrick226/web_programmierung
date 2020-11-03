@@ -1,0 +1,22 @@
+{
+  "name": "web_projekt_wwi19",
+  "version": "1.0.0",
+  "description": "Web programierung im 3.4. Semester WWI19\r hier war Julian",
+  "main": "text.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Paatrick226/web_programmierung.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Paatrick226/web_programmierung/issues"
+  },
+  "homepage": "https://github.com/Paatrick226/web_programmierung#readme",
+  "dependencies": {
+    "nodemon": "^2.0.6"
+  }
+}
